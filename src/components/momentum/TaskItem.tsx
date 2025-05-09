@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Card, CardContent, CardFooter, CardHeader } from '@/components/ui/card';
-import { Edit3, Trash2, PlusCircle, ChevronUp, ChevronDown, X, Check as CheckIcon, Sparkles, Focus, ChevronsUpDown } from 'lucide-react';
+import { Edit3, Trash2, PlusCircle, ChevronUp, ChevronDown, X, Check as CheckIcon, Sparkles, Focus, ChevronsUpDown, Loader2 } from 'lucide-react';
 import { TaskList } from './TaskList'; // For subtasks
 import { useToast } from '@/hooks/use-toast';
 
